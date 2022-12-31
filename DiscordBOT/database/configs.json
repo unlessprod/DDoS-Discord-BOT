@@ -7,7 +7,7 @@
     "bot": {
         "description": "--> .help",
         "type": "STREAMING",
-        "url": "https://twitch.tv/DemonV3"
+        "url": "https://twitch.tv/xd"
     },
     "admins": ["956844510829223956", "ANOTHER ADMIN ID"],
     "channels": {
