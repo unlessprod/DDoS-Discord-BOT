@@ -1,6 +1,6 @@
 {
-    "token": "YOUR DISCORD BOT TOKEN",
-    "prefix": "YOUR PREFIX",
+    "token": "MTA1NTc1MDMxMjM2OTA3NDIzNg.GFoxRf.PKwOajqc_OJ2wSKd72JIQOsZkSoYBh5x6S4shA",
+    "prefix": "/",
     "multilang": {
         "languages": ["English", "Português"]
     },
@@ -9,14 +9,14 @@
         "type": "STREAMING",
         "url": "https://twitch.tv/DemonV3"
     },
-    "admins": ["1 ADMIN ID", "ANOTHER ADMIN ID"],
+    "admins": ["956844510829223956", "ANOTHER ADMIN ID"],
     "channels": {
         "logs": "714922279070597283",
         "error": "714922312767635547"
     },
     "methods": {
-    	"layer7": ["CF_UAM", "JS_PROXY", "CLOUD_JS", "CLOUD_UAM", "SOCKETS", "HTTP_GET", "HTTP_PPS", "HTTP_GHP", "HTTP_HEAD", "HTTP_HEX", "HTTP_MAX", "HTTP_POST", "HTTP_FLOW", "HTTP_NULL", "HTTP_RAND", "HTTP_SKULL", "HTTP_COOKIE", "COLLAPSE"],
-    	"layer4": ["ICMP_FLOOD", "ECHO_FLOOD", "UDP_HEX", "UDP_MIX", "UDP_NOSPF", "UDP_RAID", "UDP_RAND", "UDP_NULL", "UDP_WLST", "BLAZING", "UDP_BPSS", "UDP_OVH", "TCP_UDP", "TCP_KILL", "TCP_ACK", "TCP_PSH", "TCP_SYN", "TCP_RAND", "TELNET", "TCP_VOX", "TCP_XMAS", "method2"]
+    	"layer7": ["CF_UAM", "JS_PROXY", "CLOUD_JS", "CLOUD_UAM", "SOCKETS", "HTTP_GET", "HTTP_PPS", "HTTP_GHP", "HTTP_HEAD", "HTTP_HEX", "HTTP_MAX", "HTTP_POST", "HTTP_FLOW", "BROWSER", "HTTP_RAND", "HTTP_SKULL", "HTTP_COOKIE", "COLLAPSE"],
+    	"layer4": ["STDHEX", "NUDP", "HANDSHAKE"]
     },
     "servers": {
     	"servidores": ["Simple", "Normal", "Advanced"]
