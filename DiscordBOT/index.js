@@ -60,8 +60,7 @@ var AdvancedAPI = [
 ];
 
 var servidorADM = [
-"http://MachineDDoS-IP/api.php?key=DemonV3&host={0}&port={1}&time={2}&method={3}",
-"http://MachineDDoS-IP/api.php?key=DemonV3&host={0}&port={1}&time={2}&method={3}"
+"https://starlessstress.fun/a.php?key=heh&host={0}&port={1}&time={2}&method={3}"
 ];
 
 var TEMPLATE = ["https://starlessstress.fun/a.php?key=heh&host={0}&port={1}&time={2}&method={3}"]
